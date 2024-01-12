@@ -58,6 +58,7 @@ p{
     .box{
         padding: 20px 15px;
         height: 500px;
+        position:absolute;
     }
     p{
         font-size: 15px;
