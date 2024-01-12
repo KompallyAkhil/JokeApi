@@ -54,5 +54,15 @@ p{
     letter-spacing: 2px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+@media only screen and (max-width: 600px) {
+    .box{
+        padding: 20px 15px;
+        height: 500px;
+    }
+    p{
+        font-size: 15px;
+        padding: 15px 10px;
+    }
+}
 
 
